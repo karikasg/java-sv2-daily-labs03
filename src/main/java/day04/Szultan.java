@@ -14,4 +14,4 @@ public class Szultan {
         }
     }
 }
-// a kiírt eredmény alapján megállapítható, hogy a négyzetszám számú cellákból szabadulnak a rabok.
+//A kiírt eredmény alapján megállapítható, hogy a négyzetszám számú cellákból szabadulnak a rabok.
