@@ -11,9 +11,11 @@ public class Prison {
         }
     }
 
-    public void printPrison() {
+    public void printFreeCells() {
         for (int i = 1; i <= 100; i++) {
-            System.out.println(i + (prison[i - 1] ? ": nyitva" : ": zárva"));
+            if (prison[i-1]) {
+                    System.out.println(i);
+            }
         }
     }
 }

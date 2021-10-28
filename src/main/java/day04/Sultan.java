@@ -5,7 +5,7 @@ public class Sultan {
         Prison prison = new Prison();
 
         prison.openFreeCells();
-        prison.printPrison();
+        prison.printFreeCells();
     }
 }
 //A kiírt eredmény alapján megállapítható, hogy a négyzetszám számú cellákból szabadulnak a rabok.
